@@ -1,8 +1,8 @@
 package com.awsservices.awservices.domain.aws.web;
 
 import com.awsservices.awservices.domain.aws.api.AwsService;
+import com.awsservices.awservices.domain.aws.api.SmsRequestDto;
 import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
 @AllArgsConstructor

@@ -1,4 +1,4 @@
-package com.awsservices.awservices.domain.aws.web;
+package com.awsservices.awservices.domain.aws.api;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
