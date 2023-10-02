@@ -1,0 +1,14 @@
+aws:
+  sns:
+    sms:
+      type:
+        nodeValue: 'xx'
+        value: 'xx'
+      data:
+        type: 'xx'
+    topic: 'xx'
+    arn: 'xx'
+  secret:
+    key: 'xx'
+  access:
+    key: 'xx'
